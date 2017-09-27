@@ -1895,7 +1895,7 @@ body {
 .cid-qwleEIOBNy {
   padding-top: 15px;
   padding-bottom: 15px;
-  background-color: #ffffff;
+  background-image: url("../../../assets/images/oren-pattern-2000x1074.jpg");
 }
 .cid-qwleEIOBNy .testimonial-text {
   font-style: italic;
@@ -1945,7 +1945,7 @@ body {
 .cid-qwlMPldQ9g {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #ffffff;
+  background-image: url("../../../assets/images/oren-pattern-2000x1074.jpg");
 }
 .cid-qwlMPldQ9g H2 {
   color: #ffffff;
@@ -2013,5 +2013,8 @@ body {
 .cid-qwlKqXHDMn {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #333333;
+  background-image: url("../../../assets/images/oren-pattern-2000x1074.jpg");
+}
+.cid-qwlKqXHDMn .media-container-row .mbr-text {
+  color: #333333;
 }
